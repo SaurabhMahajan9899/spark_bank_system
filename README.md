@@ -1,4 +1,4 @@
-# spark_bank_system
+# spark_banking_system
 
 ## Introduction
 > ### The spark Foundation Internship Project-Basic Banking System
