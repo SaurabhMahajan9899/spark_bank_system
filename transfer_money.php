@@ -7,7 +7,7 @@
 <?php include('nav.php'); ?>
 
 <div class="container">
-        <h1>Transfer Money</h1>
+        <h1>Our Customers</h1>
         <br>
             <div class="row">
                 <div class="col">
