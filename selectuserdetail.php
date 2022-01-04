@@ -84,7 +84,7 @@ if(isset($_POST['submit']))
 ?>
 
 	<div class="container">
-        <h1>Transaction</h1>
+        <h1>Transfer Money</h1>
             <?php
                 include 'config.php';
                 $sid=$_GET['id'];
